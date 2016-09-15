@@ -1,0 +1,11 @@
+# Exclude binaries and compiler objects
+RconLib.v12.suo
+TestResults/
+RconLib/bin/
+RconLib/obj/
+RconLibTests/bin/
+RconLibTests/obj
+
+# Exclude VIM backups
+*.swp
+
